@@ -160,5 +160,5 @@ cython_debug/
 #.idea/
 
 # Additional Folder and Files
-Literatures/
-Others/
+literatures/
+others/
