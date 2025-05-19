@@ -162,3 +162,5 @@ cython_debug/
 # Additional Folder and Files
 literatures/
 others/
+temp/
+data/
